@@ -15,11 +15,11 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 1: In-class Exercise 1: Test Plans / Release Deliverable 1
   * Prerequisite: Requirements Lecture (READING: AFIST, Chapters 5)
   * Prerequisite: Test Plans Lecture (READING: AFIST, Chapters 6, 8)
-  * Prerequisite: Defects Lecture (READING: AFIST, Chapters 9)
   * Prerequisite: Submit the [Java Assessment Exercise](exercises/0) on GradeScope
   * Prerequisite: Submit the Partnership Contract on GradeScope
 
 * Class 2: Discuss Exercise 1 / Release Deliverable 1
+  * Prerequisite: Defects Lecture (READING: AFIST, Chapters 9)
 
 ## WEEK 3 (Week of 26 JAN)
   
