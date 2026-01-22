@@ -24,7 +24,6 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 3 (Week of 26 JAN)
   
 * Class 1: In-class Exercise 2: Unit Testing
-  * Prerequisite: Automated and Manual Testing Lecture (READING: AFIST, Chapter 12)
   * Prerequisite: Unit Testing Part 1 Lecture (READING: AFIST, Chapter 13)
   * Prerequisite: Unit Testing Part 2 Lecture (READING: AFIST, Chapter 14)
 
