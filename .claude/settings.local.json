@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -jar:*)",
+      "Bash(mvn test:*)",
+      "Bash(cmd /c \"cd /d c:\\\\Users\\\\xaep\\\\Desktop\\\\CS1632_Spring2026\\\\exercises\\\\2 && mvn test\")",
+      "Bash(powershell.exe -Command \"cd ''c:\\\\Users\\\\xaep\\\\Desktop\\\\CS1632_Spring2026\\\\exercises\\\\2''; mvn test\")",
+      "Bash(powershell.exe -Command:*)"
+    ]
+  }
+}
