@@ -43,7 +43,6 @@ public class StepDefinitions {
 		expectedResult = expectedResult.replaceAll("\\\\n", "\n");
 
 		// TODO: Replace fail() with a check whether listResult is equal to expectedResult.
-		// The rent is successful if rentCat returned true.
 		fail();
 	}
 	

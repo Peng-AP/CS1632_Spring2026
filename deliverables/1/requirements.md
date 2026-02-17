@@ -15,13 +15,13 @@ FUN-2-RENT-COMMAND - Upon the user entering command "2" on the prompt, the
 system shall ask the user the ID of the cat to rent.  Upon the user entering an
 ID, if the cat with the ID is available, the cat shall be rented out and the
 system shall inform the user of that fact.  If the cat with the ID is not
-available, the sytem shall inform the user that the cat is not here.
+available, the system shall inform the user that the cat is not here.
 
 FUN-3-RETURN-COMMAND - Upon the user entering command "3" on the prompt, the
 system shall ask the user the ID of the cat to return.  Upon the user entering
 an ID, if the cat with the ID is rented out, the cat shall be returned and the
 system shall welcome back the cat.  If the cat with the ID is not rented out,
-the sytem shall inform the user that the cat is already here.
+the system shall inform the user that the cat is already here.
 
 FUN-4-RENAME-COMMAND - Upon the user entering command "4" on the prompt, the
 system shall ask the user the ID of the cat to rename, and subsequently the new

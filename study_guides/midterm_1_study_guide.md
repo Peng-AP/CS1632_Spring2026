@@ -97,8 +97,8 @@ need to apply a testing tool to a specific problem.**
 * Be able to explain why testing a GUI web application involves a lot of text
   testing, just like text UI applications.
 * Be able to discuss reasons why testing an HTML verbatim against an expected
-  HTML page is not desirable and how Selenium solves those problems.
-* Be able to explain why in Selenium, there is an option to select
+  HTML page is not desirable and how Playwright solves those problems.
+* Be able to explain why in Playwright, there is an option to select
   different locator strings for the same target element.
 * Be able to explain why race conditions occur and how to solve them.
 * **Be able to choose the appropriate locator string given a test scenario.**
